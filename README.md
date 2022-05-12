@@ -1,7 +1,8 @@
 # Max-Fashion
-The Max Fashion website is an online web application that caters to clothes for all genders.
-
-
+<h3 align="center">The Max Fashion website is an online web application that caters to clothes for all genders.</h3>
+<div align="center">
+<img  src="https://images.freekaamaal.com/post_images/1578980316.png">
+</div>
 
 
 ## Tech Stack
