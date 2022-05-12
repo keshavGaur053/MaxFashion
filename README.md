@@ -12,7 +12,8 @@ The Max Fashion website is an online web application that caters to clothes for 
 - Local Storage
 
 
-
+## Demo link:
+<a href="https://maxfashionkeshav.netlify.app/">maxfashion.com</a>
 
 
 ## Features
