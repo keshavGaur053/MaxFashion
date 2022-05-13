@@ -52,6 +52,21 @@ Go to the project directory
 - [keshavGaur053](https://github.com/keshavGaur053)
 - [keshavGaur053](https://github.com/keshavGaur053)
 
+<p>HomePage</p>
+   <img src="https://miro.medium.com/max/700/1*VNb0tcgKmYTYfVrLPCQLYg.png"/>
+  <p>Sign Up page</p>
+  <img src="https://miro.medium.com/max/700/1*n7wyiYJj3MgW9vrwcl2aHg.png"/>
+  <p>Product Page:-</p>
+  <img src="https://miro.medium.com/max/700/1*g6ZOfEC6LlikVuibmAV64w.png"/>
+  <p>Add To Cart:-</p>
+  <img src="https://miro.medium.com/max/700/1*uyxvNxWUWgXQIXTmBG20hg.png"/>
+  <p>Address and checkout:-</p>
+  <img src="https://miro.medium.com/max/700/1*0K9HsRPBIR-0xt5dgtk9HQ.png"/>
+  <p>Whislist:-</p>
+  <img src="https://miro.medium.com/max/700/1*mvoYANsj_NVVfCz-ghB7Rw.png"/>
+  <p>Payment Page</p>
+  <img src="https://miro.medium.com/max/700/1*neuS67qUGb-jHYZD4ynPgw.png"/>
+
 
 ## Feedback
 
